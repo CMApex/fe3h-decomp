@@ -87,6 +87,6 @@ keeping track of things and seeing if anyone else was interested.
 
 ## License
 
-Code written is licensed under CC0 1.0 (see LICENSE)
-Fire Emblem: Three Houses is © Nintendo / Intelligent Systems / Koei Tecmo.
-This project contains no game code or assets; you'll need your own legally dumped copy.
+- Code written is licensed under CC0 1.0 (see LICENSE)
+- Fire Emblem: Three Houses is © Nintendo / Intelligent Systems / Koei Tecmo.
+- This project contains no game code or assets; you'll need your own legally dumped copy.
