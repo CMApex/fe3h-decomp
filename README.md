@@ -74,3 +74,9 @@ Addresses are written the way Ghidra shows them, starting at `0x7100000000`. The
 
 - **Never commit anything from `data/` or `build/`**, or any game asset.
 - No leaked SDK material, ever. Everything in `lib/nn/` comes from the game's own import names and public documentation.
+
+## License
+
+Code written is licensed under CC0 1.0 (see LICENSE)
+Fire Emblem: Three Houses is © Nintendo / Intelligent Systems / Koei Tecmo.
+This project contains no game code or assets; you'll need your own legally dumped copy.
