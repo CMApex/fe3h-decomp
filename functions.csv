@@ -1,0 +1,5 @@
+address,size,name,status,file,notes
+0x7100A328B0,0x294,Camera::UpdateView,wip,src/Camera/Camera.cpp,LookAt: builds mWorld (0x40) from eye/target/up then mView
+0x7100A32B50,0x254,Camera::UpdateProjection,decompiled,src/Camera/Camera.cpp,perspective path understood; ortho path TODO
+0x7100A32DB0,0xE8,Camera::Set,matching,src/Camera/Camera.cpp,byte-identical with clang 5.0.1/6.0.x -O2 -g
+0x7100A32EA0,0x50,Camera::SetDeferred,nonmatching,src/Camera/Camera.cpp,95%: mAspect store one slot late. Every public clang 3.8-12 fits 4 stores after the last load; game fits 5. Likely Nintendo fork. Copies vectors low half first

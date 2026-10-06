@@ -1,0 +1,28 @@
+# Game files: never commit these
+data/*
+!data/.gitkeep
+*.nso
+*.nsp
+*.xci
+main
+main.bin
+*.npdm
+*.nca
+*.nsz
+*.xcz
+rtld
+sdk
+subsdk*
+# Ghidra projects (contain the game binary)
+*.gpr
+*.rep/
+*.lock
+*.lock~
+
+# Generated
+build/
+*.o
+__pycache__/
+
+# Local settings
+config.json
