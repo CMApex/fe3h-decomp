@@ -75,7 +75,7 @@ Addresses are written the way Ghidra shows them, starting at `0x7100000000`. The
 - **Never commit anything from `data/` or `build/`**, or any game asset.
 - No leaked SDK material, ever. Everything in `lib/nn/` comes from the game's own import names and public documentation.
 
-## Reasoning
+## How this started
 Mostly just putting this here for the curious. This project began because I wanted to make a proper 4:3 mod for Three Houses for my 
 Retroid Pocket Nova. I downloaded Ghidra and decided to hunt down the camera functions because attempting to modify existing ultrawide mods was leading
 to issues. One byte matched function later I realized I had the foundations of a decomp project on my hands and decided to go ahead and make the repo for
