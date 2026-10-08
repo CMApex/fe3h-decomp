@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="768" height="528">
+<defs><pattern id="grey" width="6" height="6" patternUnits="userSpaceOnUse"><rect width="5" height="5" fill="#8b949e" fill-opacity="0.35"/></pattern></defs>
+<rect width="768" height="522" fill="url(#grey)"/>
+<rect y="522" width="672" height="6" fill="url(#grey)"/>
+<rect x="444" y="486" width="5" height="5" fill="#d29922"/>
+<rect x="450" y="486" width="5" height="5" fill="#3fb950"/>
+</svg>
