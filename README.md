@@ -70,6 +70,8 @@ docs/          notes and reference code
 
 ![Progress map: one square per 1KiB of code](docs/progress.svg)
 
+Each square is 1 KiB of code. 🟩 matching · 🟧 nonmatching · 🟨 in progress · ⬜ not started
+
 ## Addresses
 
 Addresses are written the way Ghidra shows them, starting at `0x7100000000`. The 4:3 patch files use offsets without the `0x71` prefix.
